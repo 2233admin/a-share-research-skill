@@ -1,0 +1,13 @@
+A-share Research Skill
+
+This project is an Apache-2.0 licensed, source-faithful adaptation for A-share market research.
+
+This project references and adapts ideas, structures, and workflow patterns from:
+
+- anthropics/financial-services, Apache-2.0
+- jwangkun/claude-for-financial-services-cn, Apache-2.0
+- LLMQuant/quant-mind, MIT
+- tjboudreaux/cc-thinking-skills, MIT
+
+Pinned source snapshots and adaptation notes are recorded in `references/source-map.md`.
+

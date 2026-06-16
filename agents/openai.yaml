@@ -1,0 +1,4 @@
+interface:
+  display_name: "A-share Research Skill"
+  short_description: "A-share research with source-traced evidence"
+  default_prompt: "Use $a-share-research-skill to analyze an A-share company, report, industry theme, or factor hypothesis with cited evidence."
