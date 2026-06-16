@@ -1,4 +1,4 @@
 interface:
-  display_name: "A-share Research Skill"
-  short_description: "A-share research with source-traced evidence"
-  default_prompt: "Use $a-share-research-skill to analyze an A-share company, report, industry theme, or factor hypothesis with cited evidence."
+  display_name: "A 股研究 Skill"
+  short_description: "A 股公告、财报、研报与因子候选研究"
+  default_prompt: "Use $a-share-research-skill 分析一家 A 股公司、公告、研报、行业主题或因子假设，并输出带来源证据的结论。"
